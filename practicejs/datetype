@@ -1,5 +1,0 @@
-const accountId = 12235
-let accoountEmail = "shagi@google.com"
-var accountPassword = "7654e"
-accountCity = "Multan"
-let accountState;
